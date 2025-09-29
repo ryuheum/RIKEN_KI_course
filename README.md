@@ -1,4 +1,4 @@
-#RIKEN_KI_course Assignment
+# RIKEN_KI_course Assignment
 
 This repository contains my coursework for the Bioinformatics Analysis and Visualization of Medical Genomics Data doctoral course.
 
